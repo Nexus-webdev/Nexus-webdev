@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nexus-webdev,
+- 👀 I’m interested in Programming,
+- 🌱 I’m currently learning how to Create AI and WebRTC's,
+- ⚡ Fun fact: I'm 13 and I created a Scripting Language called $ruin.
